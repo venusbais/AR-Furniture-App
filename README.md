@@ -19,7 +19,7 @@ Welcome to the AR Furniture App, an augmented reality mobile application develop
 - **XR Toolkit**: The XR Toolkit enhances your AR interactions by providing essential tools and components.
 - **XR Interactable Toolkit**: This toolkit offers interactive features for XR applications, such as object manipulation.
 - **Google Cloud**: Furniture images are loaded dynamically from Google Cloud for an up-to-date selection.
-- **Web Integration**: Seamlessly integrate shopping functionality with your mentioned website.
+- **Web Integration**: Seamlessly integrate shopping functionality with our own shopping website.
 
 ## Getting Started
 
