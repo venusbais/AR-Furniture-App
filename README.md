@@ -1,7 +1,5 @@
 # AR-Furniture-App
 
-# AR Furniture App
-
 Welcome to the AR Furniture App, an augmented reality mobile application developed using Unity. This app allows users to visualize and interact with furniture items in real-time using their mobile devices.
 
 ## Features
